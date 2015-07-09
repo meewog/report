@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name clientApp
+ * @name reportApp
  * @description
- * # clientApp
+ * # reportApp
  *
  * Main module of the application.
  */
 angular
-  .module('clientApp', [
+  .module('reportApp', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
